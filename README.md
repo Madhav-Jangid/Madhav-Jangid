@@ -1,3 +1,4 @@
+![logo](https://github.com/Madhav-Jangid/Madhav-Jangid/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Madhav Jangid</h1>
 <h3 align="center">Passionate Software Engineer | Seeking Opportunities in Software Development</h3>
 
