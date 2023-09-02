@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhav Jangid</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" >
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" >
 "
 
 - 🌱 I’m currently learning **Blockchain, Backend etc**
