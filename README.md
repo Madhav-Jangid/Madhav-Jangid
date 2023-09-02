@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/madhav-jangid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav jangid" height="30" width="40" /></a>
-<a href="https://www.facebook.com/madhavjangid.manu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhav jangid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/madhav-jangid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/madhav-jangid" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/madhavjangid.manu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/madhavjangid.manu/" height="30" width="40" /></a>
 <a href="https://instagram.com/0001._.jangra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0001._.jangra" height="30" width="40" /></a>
-<a href="https://youtube.com/@LEGENDERS_SHOWDOWN_0001?si=QmfhMXbl3LXv9tr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@legenders_showdown_0001" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@legenders_showdown_0001?si=qmfhmxbl3lxv9tr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@legenders_showdown_0001?si=qmfhmxbl3lxv9tr3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
