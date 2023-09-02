@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhav Jangid</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Madhav-Jangid/Madhav-Jangid/assets/142671143/83c95016-bb19-4141-9d40-492220683108)" >
+"
+
 - 🌱 I’m currently learning **Blockchain, Backend etc**
 
 - 👨‍💻 All of my projects are available at https://madhav-jangid.github.io/My-portfolio.github.io/
