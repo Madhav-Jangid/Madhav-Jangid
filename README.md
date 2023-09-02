@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhav Jangid</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/Madhav-Jangid/Madhav-Jangid/assets/142671143/83c95016-bb19-4141-9d40-492220683108)](https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif)" >
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" >
 "
 
 - 🌱 I’m currently learning **Blockchain, Backend etc**
