@@ -18,9 +18,9 @@ I'm a skilled <b>full-stack developer</b> with experience in <b>frontend</b> and
  
 ---
 
-<h3>🛠️ Tech Stack</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></a>
   <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" /></a>
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /></a>
@@ -54,8 +54,7 @@ I'm a skilled <b>full-stack developer</b> with experience in <b>frontend</b> and
 
 <h3 align="center">From Expertise ➤ To Execution</h3>
 
-✨ Got an idea or project in mind? Whether it’s coding, scaling a startup, or solving complex challenges—**I’m all in.**  
-Let’s connect and build something extraordinary together!  
-**[Say Hello →](mailto:work.madhavjangid@gmail.com)**
-
----
+<p align="center">
+✨ Got an idea or project in mind? Whether it’s coding, scaling a startup, or solving complex challenges <b>I’m all in.</b> 
+Let’s connect and build something extraordinary together!  <b><a href="mailto:work.madhavjangid@gmail.com">Say Hello →</a><b>
+</p>
