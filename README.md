@@ -55,6 +55,6 @@ I'm a skilled <b>full-stack developer</b> with experience in <b>frontend</b> and
 <h3 align="center">From Expertise ➤ To Execution</h3>
 
 <p align="center">
-✨ Got an idea or project in mind? Whether it’s coding, scaling a startup, or solving complex challenges <b>I’m all in.</b> 
+✨ Got an idea or project in mind? Whether it’s coding, scaling a startup, or solving complex challenges <b>I’m all in.</b>  <br/>
 Let’s connect and build something extraordinary together!  <b><a href="mailto:work.madhavjangid@gmail.com">Say Hello →</a><b>
 </p>
